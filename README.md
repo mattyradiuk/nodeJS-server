@@ -2,6 +2,8 @@
 **This is currently just a passion project for my house**
 Dont expect anything magical ok
 
+#### When the server is **up**, you can check it out by visiting radiuk.ca/server
+
 ### TODO: 
 1) Find an appropraite CSS framework to make it look decent
 2) Organize and layout the main page listing
