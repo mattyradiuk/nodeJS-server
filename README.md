@@ -11,4 +11,5 @@ When the server is **up**, you can check it out by visiting it on [my website](h
 4) Get a SSL certificate (need SSH capability for this) so I can finally use https
 5) Make the site public facing, add https and username/password or whitelisting
 6) Once I'm happy with it, create a batch script to automate everything
-7) Share with family and friends
+7) Maybe make it work with a Plex app to watch on the smart TV?
+8) Share with family and friends
