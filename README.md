@@ -2,7 +2,7 @@
 **This is currently just a passion project for my house**
 Dont expect anything magical ok
 
-When the server is **up**, you can check it out by visiting it on [my website](http://radiuk.ca/server)
+When the server is **up**, you can check it out by visiting it on [http://radiuk.ca/server](http://radiuk.ca/server)
 
 ### TODO: 
 1) Find an appropraite CSS framework to make it look decent
