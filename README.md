@@ -2,6 +2,8 @@
 **This is currently just a passion project for my house**
 Dont expect anything magical ok
 
+Pulling heavily from [https://github.com/http-party](This amazing repository)
+
 When the server is **up**, you can check it out by visiting it on [http://radiuk.ca/server](http://radiuk.ca/server)
 
 ### TODO: 
