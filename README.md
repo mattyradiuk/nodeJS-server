@@ -2,7 +2,7 @@
 **This is currently just a passion project for my house**
 Dont expect anything magical ok
 
-Pulling heavily from [this amazing repository](https://github.com/http-party)
+Relying heavily on the code found in [this amazing repository](https://github.com/http-party)
 
 When the server is **up**, you can check it out by visiting it on [http://radiuk.ca/server](http://radiuk.ca/server)
 
