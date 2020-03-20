@@ -7,6 +7,7 @@ Relying heavily on the code found in [this amazing repository](https://github.co
 When the server is **up**, you can check it out by visiting it on [http://radiuk.ca/server](http://radiuk.ca/server)
 
 ### TODO: 
+1) Find an appropriate CSS layout
 2) Organize and layout the main page listing
 3) Come up with a way to distribute index files for sub directories
 4) Get a SSL certificate (need SSH capability for this) so I can finally use https
