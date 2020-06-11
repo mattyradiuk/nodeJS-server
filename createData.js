@@ -1,6 +1,6 @@
 var fs = require('fs');
 
-var path = "/Movies";
+var path = "/Server/Movies";
 fs.writeFileSync('data.JSON', '[\n');
 
 fs.readdir(path, function(err, items) { 
